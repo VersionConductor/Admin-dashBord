@@ -1,6 +1,6 @@
 <?php
 $server   = "localhost";
-$dbmane   = "sabbirhossen_inventory";
+$dbmane   = "step_inventory";
 $username = "root";
 $password = "";
 
